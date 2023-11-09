@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+  }
+  
+  .container h1,
+  .container h2 {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+  }

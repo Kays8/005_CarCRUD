@@ -1,0 +1,92 @@
+{
+  "car": [
+    {
+      "brand": "TOYOTA",
+      "model": "CROSS",
+      "year": "1998",
+      "color": "WHITE",
+      "image": "https://source.unsplash.com/random/200x200/?car",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "brand": "HONDA",
+      "model": "CIVIC",
+      "year": 2005,
+      "color": "SILVER",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 3,
+      "brand": "FORD",
+      "model": "MUSTANG",
+      "year": 2010,
+      "color": "RED",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 4,
+      "brand": "CHEVROLET",
+      "model": "CRUZE",
+      "year": 2015,
+      "color": "BLUE",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 5,
+      "brand": "NISSAN",
+      "model": "ALTIMA",
+      "year": 2018,
+      "color": "BLACK",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 6,
+      "brand": "HYUNDAI",
+      "model": "SONATA",
+      "year": 2016,
+      "color": "GRAY",
+      "image": "hhttps://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 7,
+      "brand": "KIA",
+      "model": "SOUL",
+      "year": 2014,
+      "color": "GREEN",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 8,
+      "brand": "SUBARU",
+      "model": "OUTBACK",
+      "year": 2020,
+      "color": "BROWN",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 9,
+      "brand": "MAZDA",
+      "model": "CX-5",
+      "year": 2017,
+      "color": "SILVER",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 10,
+      "brand": "VOLKSWAGEN",
+      "model": "JETTA",
+      "year": 2019,
+      "color": "WHITE",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "brand": "TEST CAR",
+      "model": "Z",
+      "year": "2222",
+      "color": "BLACK",
+      "image": "https://source.unsplash.com/random/200x200/?car",
+      "id": 11
+    }
+  ]
+}
